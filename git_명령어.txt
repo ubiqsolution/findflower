@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "야생화 꽃 사진으로 찾기 서비스 첫번째 소스 등록!"
+git remote add origin https://github.com/ubiqsolution/findflower.git
+git push -u origin main
